@@ -34,4 +34,4 @@ This repository was created as a reoganization of projects I worked on throughou
 
 ## Review Notes
 
-This repository includes multiple labs and the final project for my Cal Poly software defined radio class. bBuild output, dependency folders, and, large data artifacts are not all included as the repository focusses on general code architecture.
+This repository includes multiple labs and the final project for my Cal Poly software defined radio class. Build output, dependency folders, and, large data artifacts are not all included as the repository focusses on general code architecture.

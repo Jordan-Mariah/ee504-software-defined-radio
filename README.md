@@ -1,10 +1,10 @@
 # EE 504 / EE 5504 Software Defined Radio
 
-THis project demonstrates Software-defined radio and signal-processing MATLAB code for packet detection, modulation, demodulation, and Pluto SDR communication.
+This project demonstrates Software-defined radio and signal-processing MATLAB code for packet detection, modulation, demodulation, and Pluto SDR communication.
 
 ## Portfolio Import Note
 
-This repository was created as a reoganization of project created throughout my time as an Electrical Engineering M.S. and B.S. 
+This repository was created as a reoganization of projects I worked on throughout my time as an Electrical Engineering M.S. and B.S. 
 
 ## Skills
 
